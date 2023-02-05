@@ -1,5 +1,7 @@
 # resgitration-form
-
+```
+login and register form , handle api whit json server
+```
 ## Project setup
 ```
 npm install
